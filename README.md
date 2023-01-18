@@ -3,7 +3,7 @@
 [![LinkedId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-01252a212/)
 [![LinkedId](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bruno.brd73@gmail.com)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodias-r&theme=blue-green)
+
 
 ### Technologies that I use
 
@@ -23,6 +23,6 @@
 <img align-items="center" alt="Angular" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodias-r&theme=blue-green)
+
 
 
