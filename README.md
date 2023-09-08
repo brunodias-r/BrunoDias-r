@@ -1,29 +1,32 @@
-### Hello, I'm Bruno Rodrigues 👋
+## Hello, I'm Bruno Rodrigues 👋
+
+### Front-end developer from Rio de Janeiro, Brazil. I'm graduated in Analysis and Systems Development. Passionate about technology and nature, my hobbies are: running 🏃‍♀️, whatching anime 🖥️, hiking 🚶 and going to the beach⛱️.  ###
+
+## Connect with me
 
 [![LinkedId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-01252a212/)
+
 [![LinkedId](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bruno.brd73@gmail.com)
 
+## Technologies
+
+![HTML5](https://img.shields.io/badge/Html5-1e1e1e?style=for-the-badge&logo=html5)
 
 
-### Technologies that I use
+![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=for-the-badge&logo=css3&logoColor=264CE4)
 
-<div style="display: inline_block" >
-<img align-items="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+![javascript](https://img.shields.io/badge/javascript-1e1e1e?style=for-the-badge&logo=javascript)
 
-<img align-items="center" alt="ccs3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+![typescript](https://img.shields.io/badge/typescript-1e1e1e?style=for-the-badge&logo=typescript)
 
-<img align-items="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+![JAVA](https://img.shields.io/badge/JAVA-1e1e1e?style=for-the-badge)
 
-<img align-items="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+![react_native](https://img.shields.io/badge/react_native-1e1e1e?style=for-the-badge&logo=react)
 
-<img align-items="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+![git](https://img.shields.io/badge/git-1e1e1e?style=for-the-badge&logo=git)
 
-<img align-items="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+![angular](https://img.shields.io/badge/angular-1e1e1e?style=for-the-badge&logo=angular&logoColor=CD0000)
 
-<img align-items="center" alt="Angular" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+![bootstrap](https://img.shields.io/badge/bootstrap-1e1e1e?style=for-the-badge&logo=bootstrap&logoColor=bootsrap&)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunodias-r&layout=compact&bg_color=1e1e1e&border_color=30A3DC&title_color=30A3DC&text_color=FFF)
