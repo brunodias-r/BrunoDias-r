@@ -1,6 +1,6 @@
 ## Hello, I'm Bruno Rodrigues 👋
 
-### Front-end developer from Rio de Janeiro, Brazil. I'm graduated in Analysis and Systems Development. Passionate about technology and nature, my hobbies are: running 🏃‍♀️, whatching anime 🖥️, hiking 🚶 and going to the beach⛱️.  ###
+### I'm a Developer Web Front-end/Mobile, I live Rio de Janeiro, Brazil. I'm graduated in Analysis and Systems Development in FATEC SENAC-RJ. I love nature, technology and animals. My hobbies are: running 🏃‍♀️, whatching anime 🖥️, hiking 🚶 and going to the beach⛱️. ###
 
 ## Connect with me
 
